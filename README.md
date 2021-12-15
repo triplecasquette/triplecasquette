@@ -1,16 +1,16 @@
-### Hi there 👋
+# COTTALORDA Vincent
 
-<!--
-**CubW0lf/CubW0lf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Web Dev Junior`
 
-Here are some ideas to get you started:
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="drawing" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="drawing" width="30"/>
+<img src="https://maxence.website/assets/images/projets/react-logo.png" alt="drawing" width="30"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/symfony-logo-png-transparent.png" alt="drawing" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="drawing" width="30"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+> Hi I'm Vincent and I'm a Junior developper passionate about almost everything.<br/>
+> I’m currently learning JS, React, Node and learn php and symfony basis on my own.<br/>
+> I always want to create new projects. If it's your desire I'm ready to go. If you're looking for a junior i'm in too. Feel free to visit my CV down here :<br/>
+> https://www.vincentcottalorda.fr/
