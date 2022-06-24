@@ -9,4 +9,4 @@
 > Hi I'm Vincent and I'm a Junior developper passionate about almost everything.<br/>
 > I’m currently learning JS, React, Node and learn php and symfony basis on my own.<br/>
 > I always want to create new projects. If it's your desire I'm ready to go. If you're looking for a junior i'm in too. Feel free to visit my CV down here :<br/>
-> https://www.vincentcottalorda.fr/
+> https://vincentcottalorda.me/
