@@ -12,16 +12,6 @@
 |<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--LkL103Qa--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/377/landscape/typescriptlang.png" height="30" alt="html js & css"/> | Typescript| Surcouche Javascript de Typage Développé par Microsoft |
 |<img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" height="30" alt="html js & css"/>| Zustand | Librairie de State-Management | 
 
-
-## Je travaille aussi avec | Also working with :
-| Image         | Nom / Name    | Utilité / Use case  |
-| ------------- |:-------------:| ---------:|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="drawing" width="30"/>| React | Librairie Javascript Développé par Facebook |
-| <img src="https://cdn.freebiesupply.com/logos/large/2x/symfony-logo-png-transparent.png" alt="drawing" width="30"/>     | Symfony      |FrameWork PHP Francais|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="NodeJS" height="30"/> | Node |    Javascript coté Serveur |
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" height="30"/>|PHP|Langage de Porgrammation Web coté serveur|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png" alt="wordpress" width="30"/>|Wordpress|CMS bien connu du grand public|
-
 ## Quelques Mots sur moi
 
 > Bonjour, je m'appelle Vincent et je suis un développeur Front passionné par presque tout.<br/>
