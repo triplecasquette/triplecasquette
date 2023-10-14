@@ -5,7 +5,7 @@
 ## Mes outils préférés | My favorite tools :
 | Image         | Nom / Name    | Utilité / Use case  |
 | ------------- |:-------------:| ---------:|
-| <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="NextJs" width="30" /> | NextJs | FrameWork React & Javascript |
+| <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="NextJs" width="30" /> | NextJs | FrameWork React |
 | <img src="https://camo.githubusercontent.com/ebf016c308b7472411bd951e5ee3c418a44c0755/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f662e636c2e6c792f6974656d732f33513238333030343348315931633146314b32442f64697265637475732d6c6f676f2d737461636b65642e706e67" height="30" alt="Directus"/>     | Directus      |  Headless CMS / No Code Dasboard & API Provider     |
 |<img src="https://d3uyj2gj5wa63n.cloudfront.net/wp-content/uploads/2019/08/011fc620-4cb2-11e9-a51a-fdbb10b4cabb-e1567090000539.png" height="30" alt="Storybook Logo"/> | StoryBook| Isolation et documentation de composants |
 |<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--LkL103Qa--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/377/landscape/typescriptlang.png" height="30" alt="html js & css"/> | Typescript| Surcouche Javascript de Typage Développé par Microsoft |
