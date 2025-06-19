@@ -1,8 +1,4 @@
 # COTTALORDA Vincent
-
-`Front Dev`
-
-## Mes outils préférés | My favorite tools :
 # ⚡ Stack Principale
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
@@ -11,6 +7,15 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+# Stack DevOps
+
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Fail2ban](https://img.shields.io/badge/Fail2ban-grey?logo=linux&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
 
 ## Quelques Mots sur moi
