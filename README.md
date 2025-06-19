@@ -1,5 +1,12 @@
 # COTTALORDA Vincent
-# ⚡ Stack Principale
+
+Développeur front indépendant — Next.js, Nuxt, Directus & co  
+🔗 https://triplecasquette.fr/
+
+
+---
+
+## ⚡ Stack Principale
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt.js&logoColor=white)
@@ -8,7 +15,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-# Stack DevOps
+## Stack DevOps
 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
@@ -17,22 +24,32 @@
 ![Fail2ban](https://img.shields.io/badge/Fail2ban-grey?logo=linux&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
+## 🧪 Veille & terrain d'exploration
 
-## Quelques Mots sur moi
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-RAG_/_Vector_Store_/_Ollama-blueviolet)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FE4E00?logo=n8n&logoColor=white)
 
-> Bonjour, je m'appelle Vincent et je suis un développeur Front passionné par presque tout.<br/>
-> J'ai appris les bases de php et symfony en autodidacte. Puis j'ai poussé mon apprentissage des technologies modernes au niveau supérieur avec le bien nommé Next.js, et j'ai découvert directus qui m'a permis d'offrir un accès facile aux données à mes clients.<br/>
-> J'ai ensuite crée mon auto entreprise pour donner accès à tous aux technologies modernes de la communication. (Web, photo, vidéo).
-> Depuis j'ai découvert Nuxt, Nest, Phaser, C# et beaucoup d'outils pour encore plus de flexibilité et des choix encore plus adaptés à mes clients.
-> N'hésitez pas à visiter mon site :<br/>
-> https://triplecasquette.fr/
+---
 
-## About me
+## 🗣️ Quelques Mots sur moi
 
-> Hello, my name is Vincent and I'm a front-end developer passionate about almost everything.<br/>
-> I learned the basis of php and symfony on my own. Then I took my learning of modern technologies to the next level with the well named Next.js, and I discovered Directus which allowed me to offer an easy access to data to my customers.<br/>
-> Then, I became a freelance to give everyone access to modern communication technologies. (Web, photo, video)
-Do not hesitate to visit my site:<br/>
-> https://triplecasquette.fr/
+> Je m'appelle Vincent, développeur front autodidacte passionné par la tech au sens large.<br/>
+> J’ai commencé par le bon vieux PHP et Symfony, puis j’ai rapidement basculé vers des stacks modernes comme Next.js et Directus pour proposer des solutions plus accessibles à mes clients.<br/>
+> J’ai lancé mon auto-entreprise avec un objectif clair : rendre les outils de communication modernes accessibles à tous — que ce soit via le web, la photo ou la vidéo.<br/>
+> Depuis, j’ai élargi mes compétences avec Nuxt, Nest, Phaser, C#, et plein d'autres outils qui me permettent de m’adapter aux besoins réels, pas aux tendances.<br/>
+> 👉 Mon site : https://triplecasquette.fr/
+
+
+## 🗣️ About me
+
+> I'm Vincent, a self-taught front-end developer passionate about tech in all its forms.<br/>
+> I started with PHP and Symfony, then leveled up with modern stacks like Next.js and Directus to deliver simple and efficient data access for clients.<br/>
+> I created my freelance business to make modern communication tools accessible to everyone — web, photo, and video included.<br/>
+> Over time, I’ve explored Nuxt, Nest, Phaser, C#, and many other tools to stay flexible and client-focused rather than trend-driven.<br/>
+> 👉 My website: https://triplecasquette.fr/
 
 
