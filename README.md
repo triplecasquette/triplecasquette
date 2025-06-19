@@ -3,13 +3,15 @@
 `Front Dev`
 
 ## Mes outils préférés | My favorite tools :
-| Image         | Nom / Name    | Utilité / Use case  |
-| ------------- |:-------------:| ---------:|
-| <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="NextJs" width="30" /> | NextJs | FrameWork React |
-| <img src="https://avatars.githubusercontent.com/u/15967950?v=4" height="30" alt="Directus"/>     | Directus      |  Headless CMS / No Code Dasboard & API Provider     |
-|<img src="https://d3uyj2gj5wa63n.cloudfront.net/wp-content/uploads/2019/08/011fc620-4cb2-11e9-a51a-fdbb10b4cabb-e1567090000539.png" height="30" alt="Storybook Logo"/> | StoryBook| Isolation et documentation de composants |
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1920px-Typescript.svg.png" height="30" alt="Typescript Logo"/> | Typescript| Surcouche Javascript de Typage Développé par Microsoft |
-|<img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" height="30" alt="html js & css"/>| Zustand | Librairie de State-Management | 
+# ⚡ Stack Principale
+
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt.js&logoColor=white)
+![Directus](https://img.shields.io/badge/Directus-000000?logo=directus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
 
 ## Quelques Mots sur moi
 
