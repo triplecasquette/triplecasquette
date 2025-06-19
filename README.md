@@ -1,8 +1,9 @@
 # COTTALORDA Vincent
 
-Développeur front indépendant — Next.js, Nuxt, Directus & co  
+> Développeur indépendant  
+> Fan de Directus 🐇 et de code SOLID.
+> J'aime les stacks claires, les outils efficaces, et les projets qui ont du sens.
 🔗 https://triplecasquette.fr/
-
 
 ---
 
@@ -10,7 +11,7 @@ Développeur front indépendant — Next.js, Nuxt, Directus & co
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt.js&logoColor=white)
-![Directus](https://img.shields.io/badge/Directus-000000?logo=directus&logoColor=white)
+![Directus](https://img.shields.io/badge/Directus-7B61FF?logo=directus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
