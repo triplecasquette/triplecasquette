@@ -42,7 +42,8 @@
 > J’ai commencé par le bon vieux PHP et Symfony, puis j’ai rapidement basculé vers des stacks modernes comme Next.js et Directus pour proposer des solutions plus accessibles à mes clients.<br/>
 > J’ai lancé mon auto-entreprise avec un objectif clair : rendre les outils de communication modernes accessibles à tous — que ce soit via le web, la photo ou la vidéo.<br/>
 > Depuis, j’ai élargi mes compétences avec Nuxt, Nest, Phaser, C#, et plein d'autres outils qui me permettent de m’adapter aux besoins réels, pas aux tendances.<br/>
-> 👉 Mon site : https://triplecasquette.fr/
+> 👉 Mon site : https://triplecasquette.fr/<br/>
+> Créateur & Développeur de [Axiome-Apps](https://github.com/Axiome-Apps)
 
 
 ## 🗣️ About me
@@ -51,6 +52,7 @@
 > I started with PHP and Symfony, then leveled up with modern stacks like Next.js and Directus to deliver simple and efficient data access for clients.<br/>
 > I created my freelance business to make modern communication tools accessible to everyone — web, photo, and video included.<br/>
 > Over time, I’ve explored Nuxt, Nest, Phaser, C#, and many other tools to stay flexible and client-focused rather than trend-driven.<br/>
-> 👉 My website: https://triplecasquette.fr/
+> 👉 My website: https://triplecasquette.fr/<br/>
+> Founder and dev of [Axiome-Apps](https://github.com/Axiome-Apps)
 
 
